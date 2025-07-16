@@ -189,3 +189,12 @@ button {
 button:hover {
   cursor: pointer;
 }
+
+footer {
+  background-color: #1f2937;
+  color: white;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
