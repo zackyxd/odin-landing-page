@@ -73,7 +73,6 @@ a {
   background-color: white;
   margin-top: 40px;
   padding-bottom: 125px;
-  border: 1px solid red;
 }
 
 h2 {
@@ -141,7 +140,6 @@ h2 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 1px solid red;
 }
 
 .white-rect {
