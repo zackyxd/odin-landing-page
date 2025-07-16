@@ -71,6 +71,9 @@ a {
 
 .info {
   background-color: white;
+  margin-top: 40px;
+  padding-bottom: 125px;
+  border: 1px solid red;
 }
 
 h2 {
@@ -78,7 +81,7 @@ h2 {
   color: #1f2937;
   font-weight: 900;
   text-align: center;
-  margin: 40px 0px;
+  margin-bottom: 40px;
 }
 
 .cards-container {
@@ -105,4 +108,29 @@ h2 {
 
 .card-text {
   margin-top: 8px;
+}
+
+.quote {
+  background-color: #e5e7eb;
+}
+
+.quote-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 150px 200px;
+}
+
+.quote-text {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.quote-author {
+  align-self: flex-end;
+  font-weight: 700;
+  font-size: 28px;
 }
